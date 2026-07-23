@@ -1,0 +1,5 @@
+benchmark_root: /data/selim_sarowar/LIBERO-X/libero/libero
+bddl_files: /data/selim_sarowar/LIBERO-X/libero/libero/bddl_files
+init_states: /data/selim_sarowar/LIBERO-X/libero/libero/init_files
+datasets: /data/selim_sarowar/LIBERO-X/datasets
+assets: /data/selim_sarowar/LIBERO-X/libero/libero/assets
